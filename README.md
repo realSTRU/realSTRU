@@ -1,6 +1,8 @@
 
+
 #### I´m TheRealStruggler...
 ![I´m TheRealStruggler...](https://i.redd.it/9au60cbnxmcx.gif)
+
 
 I made this profile to show you some software development skills and experiences, through the long and empty path of software engineering, focusing on programming and the beauty of different languages ​​in this very deep area.
 
@@ -22,5 +24,9 @@ Skills: JAVA / HTML / C# / C
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realSTRU)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=realSTRU&show_icons=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/realSTRU)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=realSTRU)  
 
 ![Profile views](https://gpvc.arturio.dev/realSTRU)  
