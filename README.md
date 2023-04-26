@@ -9,10 +9,10 @@ I made this profile to show you some software development skills and experiences
 
 Skills: JAVA / HTML / C# / C
 
-- 🔭 I’m currently working on Projects in .NET Blazor 
-- 🌱 I’m currently learning Kotlin 
-- 📫 How to reach me: cesarreynoso0969@gmail.com 
-- ⚡ Fun fact: I like to play shooters like {Valorant} add me {stru} 
+- 👷‍♂️ I’m currently working on Projects in .NET Blazor 
+- 🧠 I’m currently learning Kotlin 
+- 🤙 How to reach me: cesarreynoso0969@gmail.com 
+- 🎮 Fun fact: I like to play shooters like {Valorant} add me {stru} 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/realSTRU)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/reynoso.ce/)  
