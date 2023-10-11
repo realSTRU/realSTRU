@@ -12,7 +12,7 @@ Skills: JAVA / HTML / C# / C
 - 👷‍♂️ I’m currently working on Projects in .NET Blazor 
 - 🧠 I’m currently learning Kotlin 
 - 🤙 How to reach me: cesarreynoso0969@gmail.com 
-- 🎮 Fun fact: I like to play shooters like {Valorant} add me {stru} also R6 
+- 🎮 Fun fact: I like to play shooters like {Valorant} add me {stru} also wz2
 - ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 - ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 - ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
