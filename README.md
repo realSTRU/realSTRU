@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&random=false&width=435&lines=Im+stru;a+struggler+losing+time;+solving+your+problems)](https://git.io/typing-svg)
 <br>
 <div class="center">
   <div align="center">
