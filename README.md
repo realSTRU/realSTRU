@@ -1,4 +1,12 @@
-
+<br>
+<div class="center">
+  <div align="center">
+<!-- <a href="https://discord.com/users/202740603790819328" > -->
+  <a >
+   <img src="https://lanyard.kyrie25.me/api/1018980094494134293?waveColor=8B8BFA&waveSpotifyColor=B48EF7&gradient=7E37F9-B48EF7-E568C4&imgStyle=square"  />
+  </a>
+</div>
+<br>
 
 #### I´m TheRealStruggler...
 ![I´m TheRealStruggler...](https://i.redd.it/9au60cbnxmcx.gif)
