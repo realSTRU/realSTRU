@@ -7,11 +7,7 @@
   </a>
 </div>
 <br>
-
-#### I´m TheRealStruggler...
-![I´m TheRealStruggler...](https://i.redd.it/9au60cbnxmcx.gif)
-
-
+I´m TheRealStruggler...
 I made this profile to show you some software development skills and experiences, through the long and empty path of software engineering, focusing on programming and the beauty of different languages ​​in this very deep area.
 
 
