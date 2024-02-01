@@ -27,11 +27,9 @@ Skills: JAVA / HTML / C# / C / SQL / MD / RADZEN BLAZOR / .NET APIs
 - ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/realSTRU)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/reynoso.ce/)  
-<div class="center">
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=realSTRU&show_icons=true)  
+
   ![GitHub streak stats](https://streak-stats.demolab.com/?user=realSTRU) 
-</div>
-  
+
 
  
 
