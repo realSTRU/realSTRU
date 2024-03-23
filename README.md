@@ -12,7 +12,7 @@ I´m TheRealStruggler...
 I made this profile to show you some software development skills and experiences, through the long and empty path of software engineering, focusing on programming and the beauty of different languages ​​in this very deep area.
 
 
-Skills: JAVA / HTML / C# / C / SQL / MD / RADZEN BLAZOR / .NET APIs 
+Skills: JAVA / HTML / C# / C / SQL / MD / RADZEN BLAZOR / .NET APIs /Kotlin Jetpack Compose
 - 🤙 How to reach me: cesarreynoso0969@gmail.com 
 - 🎮 Fun fact: I like to play shooters like {Valorant} add me {stru} also R6
 - ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
