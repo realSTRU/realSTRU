@@ -1,26 +1,40 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&center=true&random=false&width=435&lines=Im+stru;a+struggler+losing+time;+solving+your+problems)](https://git.io/typing-svg)
-<br>
-<div class="center">
-  <div align="center">
-<!-- <a href="https://discord.com/users/202740603790819328" > -->
-  <a >
-  <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dkYmU1amFrYThyZmkyb2VsZGN1ejR4ZWZmMWt0dDgwejFubnNneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ryKkajMOMjYCQ/giphy.gif" width="400"/>
+<div align="center">
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2dkYmU1amFrYThyZmkyb2VsZGN1ejR4ZWZmMWt0dDgwejFubnNneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ryKkajMOMjYCQ/giphy.gif" width="180" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=6E6E6E&center=true&width=380&lines=full+stack+developer;.NET+%7C+Kotlin+%7C+Flutter;clean+code+%7C+scalable+systems)](https://git.io/typing-svg)
+
+[![GitHub](https://img.shields.io/badge/realSTRU-%23fff.svg?style=flat&logo=github&logoColor=black)](https://github.com/realSTRU)
+[![LinkedIn](https://img.shields.io/badge/cesar--reynoso-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-reynoso-492254205/)
+
 </div>
 
-  </a>
+---
+
+Full stack developer building robust APIs, web apps, and mobile solutions in `.NET` · `Kotlin` · `Flutter`. Comfortable from DB design and server admin all the way to CI/CD and Azure deployments.
+
+---
+
+**languages** — `C#` `Kotlin` `Dart` `C` `Bash`  
+**frontend** — `React` `HTML5` `Astro` `Bootstrap` `MUI`  
+**backend** — `.NET` `Node.js` `Docker` `Azure` `Linux`  
+**databases** — `SQL Server` `PostgreSQL` `MySQL` `DB2`
+
+---
+
+<div align="center">
+
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 </div>
-<br>
-Software Developer passionate about transforming complex challenges into elegant, scalable solutions. I specialize in building robust applications across the full stack - from Web APIs and web applications to mobile development - using modern technologies like C#, Kotlin, and Flutter within the .NET ecosystem.
-My expertise spans database management (SQL Server, DB2, MySQL), server administration (Windows/Linux), and collaborative development using GitHub and Agile methodologies. I thrive in team environments where clean code principles, problem-solving, and continuous improvement drive exceptional results.
-Whether it's optimizing organizational processes or architecting scalable systems, I bring a results-driven approach with adaptability and a proactive mindset to every project.
-<br>
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" alt="C#" title="C#" width="36" height="36" /></a><a href="https://coffeescript.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/coffeescript-colored-dark.svg" alt="Coffeescript" title="Coffeescript" width="36" height="36" /></a><a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" alt="Dart" title="Dart" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://astro.build/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg" alt="Astro" title="Astro" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" alt=".NET" title=".NET" width="36" height="36" /></a>
-</p>
+---
 
-### Socials
+<div align="center">
 
-<p align="left"> <a href="https://www.github.com/realSTRU" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/cesar-reynoso-492254205/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+![stats](https://github-readme-stats.vercel.app/api?username=realSTRU&show_icons=true&hide_border=true&bg_color=0d1117&title_color=fff&text_color=6e6e6e&icon_color=fff&count_private=true&hide=contribs&rank_icon=github)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realSTRU&layout=compact&hide_border=true&bg_color=0d1117&title_color=fff&text_color=6e6e6e&langs_count=6)
 
+<sub>built with curiosity · refined with frustration · shipped with pride</sub>
+
+</div>
