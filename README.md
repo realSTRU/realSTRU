@@ -4,15 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=6E6E6E&center=true&width=380&lines=full+stack+developer;.NET+%7C+Kotlin+%7C+Flutter;clean+code+%7C+scalable+systems)](https://git.io/typing-svg)
 
-[![GitHub](https://img.shields.io/badge/realSTRU-%23fff.svg?style=flat&logo=github&logoColor=black)](https://github.com/realSTRU)
-[![LinkedIn](https://img.shields.io/badge/cesar--reynoso-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-reynoso-492254205/)
-
 </div>
 
 ---
-
-Full stack developer building robust APIs, web apps, and mobile solutions in `.NET` · `Kotlin` · `Flutter`. Comfortable from DB design and server admin all the way to CI/CD and Azure deployments.
-
+[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 ---
 
 **languages** — `C#` `Kotlin` `Dart` `C` `Bash`  
@@ -22,11 +17,15 @@ Full stack developer building robust APIs, web apps, and mobile solutions in `.N
 
 ---
 
+
 <div align="center">
 
-[![readme-quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31dexfbffukmoqdkizlz5fjq6wcq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31dexfbffukmoqdkizlz5fjq6wcq&redirect=true)
+
 
 </div>
+
 
 ---
 
@@ -35,6 +34,7 @@ Full stack developer building robust APIs, web apps, and mobile solutions in `.N
 ![stats](https://github-readme-stats.vercel.app/api?username=realSTRU&show_icons=true&hide_border=true&bg_color=0d1117&title_color=fff&text_color=6e6e6e&icon_color=fff&count_private=true&hide=contribs&rank_icon=github)
 ![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realSTRU&layout=compact&hide_border=true&bg_color=0d1117&title_color=fff&text_color=6e6e6e&langs_count=6)
 
-<sub>built with curiosity · refined with frustration · shipped with pride</sub>
+<sub>Cesar Reynoso - Nagua, Maria Trinidad Sanchez</sub>
 
 </div>
+
